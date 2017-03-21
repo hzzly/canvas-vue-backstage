@@ -1,0 +1,114 @@
+[ 2017-01-02T10:16:08+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015390s ]
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 62 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0402s ]
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES ('hzzly',NULL,'e10adc3949ba59abbe56e057f20f883e')
+ERR: 1048:Column 'phone' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES ('hzzly',NULL,'e10adc3949ba59abbe56e057f20f883e')
+
+[ 2017-01-02T10:16:30+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015807s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0259s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-01-02T12:19:22+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013495s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0421s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-01-02T12:19:30+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009166s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-01-02T12:42:02+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007811s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0315s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-01-02T14:21:21+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005705s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0208s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-01-02T14:21:23+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010216s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0212s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-01-02T14:34:05+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009071s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0229s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-01-02T14:36:47+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004893s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0272s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0017s ]
+
+[ 2017-01-02T14:40:22+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005314s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0250s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2017-01-02T14:43:17+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005782s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0211s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0010s ]
+

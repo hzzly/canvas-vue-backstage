@@ -1,0 +1,722 @@
+[ 2016-12-31T14:21:43+08:00 ] ::1 /thinkphp/index.php/home/index/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017698s ]
+
+[ 2016-12-31T14:21:48+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004598s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0251s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004272s ]
+
+[ 2016-12-31T14:32:32+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006342s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005792s ]
+
+[ 2016-12-31T14:39:54+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004356s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2016-12-31T14:40:42+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006739s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0239s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-12-31T14:41:06+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006465s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-12-31T14:44:11+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007886s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T14:53:15+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T14:53:38+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005716s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T14:54:10+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001808s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-12-31T14:55:01+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004536s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0435s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T14:56:11+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003008s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T14:56:57+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013406s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0958s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-12-31T14:57:14+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009328s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T14:58:21+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010394s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T14:58:54+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008626s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T15:02:37+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007947s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-12-31T15:03:23+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014812s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0261s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-12-31T15:06:34+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010450s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-12-31T15:07:27+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011795s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T15:07:56+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003118s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T15:11:28+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000294s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004929s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T15:45:51+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.078137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.056174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.057110s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.6462s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0745s ]
+
+[ 2016-12-31T15:54:46+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000710s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011113s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-12-31T15:54:50+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015820s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0227s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-12-31T16:04:06+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008106s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0222s ]
+
+[ 2016-12-31T16:10:29+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013570s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:2.3658s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-12-31T16:11:31+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010445s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T16:12:12+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015273s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2016-12-31T16:14:07+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003918s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T16:14:20+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013805s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T16:16:10+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002741s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-12-31T16:16:19+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001640s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T16:16:24+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008291s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T16:17:45+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002682s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0282s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T16:18:36+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002476s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0339s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T16:18:51+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011625s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0227s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T16:19:27+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003643s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2016-12-31T16:21:06+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002512s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T16:21:29+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007020s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0233s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-12-31T16:22:18+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008924s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0773s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-12-31T16:28:35+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005681s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-12-31T16:28:48+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005945s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T16:29:12+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000389s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009784s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0253s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-12-31T16:56:49+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010402s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0836s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-12-31T16:56:50+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.036372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037087s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2016-12-31T16:58:02+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005081s ]
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-12-31T17:12:22+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000871s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003869s ]
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-12-31T17:12:58+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005657s ]
+ERR: 模板不存在:./Application/Home/View/Login/login.html
+
+[ 2016-12-31T17:14:09+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007088s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 46 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 47 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0201s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:15:30+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005132s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.2876s ]
+SQL: SELECT * FROM `cd_user` LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2016-12-31T17:21:03+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.108338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.108782s ]
+
+[ 2016-12-31T17:21:25+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004956s ]
+
+[ 2016-12-31T17:22:17+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003649s ]
+
+[ 2016-12-31T17:22:17+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002955s ]
+
+[ 2016-12-31T17:23:32+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008394s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0235s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:24:25+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002765s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+NOTIC: [8] Array to string conversion F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.060901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.061157s ]
+
+[ 2016-12-31T17:24:26+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002677s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+NOTIC: [8] Array to string conversion F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 71 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003354s ]
+
+[ 2016-12-31T17:30:36+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004451s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0078s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:32:29+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006031s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.1147s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:32:32+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006004s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0168s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:33:53+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006542s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0156s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:33:56+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007876s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0131s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:34:04+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0089s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+
+[ 2016-12-31T17:34:23+08:00 ] ::1 /thinkphp/index.php/home/Login/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004554s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 52 行.
+NOTIC: [8] Undefined index: phone F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 53 行.
+NOTIC: [8] Undefined index: password F:\wamp\www\thinkphp\Application\Home\Controller\LoginController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0155s ]
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+ERR: 1048:Column 'username' cannot be null
+ [ SQL语句 ] : INSERT INTO `cd_user` (`username`,`phone`,`password`) VALUES (NULL,NULL,'d41d8cd98f00b204e9800998ecf8427e')
+

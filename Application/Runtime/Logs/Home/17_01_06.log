@@ -1,0 +1,180 @@
+[ 2017-01-06T12:55:14+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021002s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0298s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.0024s ]
+
+[ 2017-01-06T12:56:17+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0015s ]
+
+[ 2017-01-06T12:56:25+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0009s ]
+
+[ 2017-01-06T12:56:37+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004675s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0013s ]
+
+[ 2017-01-06T12:56:59+08:00 ] ::1 /thinkphp/index.php/home/Msgboard/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+SQL: SHOW COLUMNS FROM `cd_msgboard` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `cd_msgboard` INNER JOIN cd_user ON cd_msgboard.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0012s ]
+
+[ 2017-01-06T13:50:51+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0009s ]
+
+[ 2017-01-06T13:50:55+08:00 ] ::1 /thinkphp/index.php/home/Buyhouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002236s ]
+SQL: SHOW COLUMNS FROM `cd_buyhouse` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `cd_buyhouse` INNER JOIN cd_user ON cd_buyhouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0007s ]
+
+[ 2017-01-06T13:50:58+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002453s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0027s ]
+
+[ 2017-01-06T13:52:24+08:00 ] ::1 /thinkphp/index.php/home/Buyhouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002708s ]
+SQL: SHOW COLUMNS FROM `cd_buyhouse` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `cd_buyhouse` INNER JOIN cd_user ON cd_buyhouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0028s ]
+
+[ 2017-01-06T13:58:33+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0011s ]
+
+[ 2017-01-06T14:00:55+08:00 ] ::1 /thinkphp/index.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `cd_user` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-01-06T21:20:02+08:00 ] ::1 /thinkphp/index.php/home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.052490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019065s ]
+SQL: SHOW COLUMNS FROM `cd_user` [ RunTime:0.1708s ]
+SQL: SELECT * FROM `cd_user` WHERE `username` = 'hzzly' LIMIT 1   [ RunTime:0.1294s ]
+
+[ 2017-01-06T21:20:12+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0251s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.1555s ]
+
+[ 2017-01-06T21:20:16+08:00 ] ::1 /thinkphp/index.php/home/Buyhouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `cd_buyhouse` [ RunTime:0.0754s ]
+SQL: SELECT * FROM `cd_buyhouse` INNER JOIN cd_user ON cd_buyhouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0052s ]
+
+[ 2017-01-06T21:20:18+08:00 ] ::1 /thinkphp/index.php/home/Renthouse/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `cd_renthouse` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `cd_renthouse` INNER JOIN cd_user ON cd_renthouse.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0008s ]
+
+[ 2017-01-06T21:20:20+08:00 ] ::1 /thinkphp/index.php/home/Msgboard/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `cd_msgboard` [ RunTime:0.0989s ]
+SQL: SELECT * FROM `cd_msgboard` INNER JOIN cd_user ON cd_msgboard.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0020s ]
+
+[ 2017-01-06T21:20:33+08:00 ] ::1 /thinkphp/index.php/home/Msgboard/addmsgboard
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000328s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002891s ]
+SQL: SHOW COLUMNS FROM `cd_msgboard` [ RunTime:0.0073s ]
+SQL: INSERT INTO `cd_msgboard` (`uid`,`content`,`time`) VALUES ('4','哈哈，没时间了','1483708833') [ RunTime:0.1270s ]
+
+[ 2017-01-06T21:20:34+08:00 ] ::1 /thinkphp/index.php/home/Msgboard/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `cd_msgboard` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `cd_msgboard` INNER JOIN cd_user ON cd_msgboard.uid = cd_user.uid  ORDER BY id desc  [ RunTime:0.0010s ]
+

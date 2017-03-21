@@ -1,0 +1,76 @@
+[ 2017-01-05T13:17:06+08:00 ] ::1 /thinkphp/index.php/admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0327s ]
+SQL: SELECT * FROM `cd_admin` WHERE `unumber` = '10001' LIMIT 1   [ RunTime:0.0198s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Admin\Controller\LoginController.class.php 第 14 行.
+
+[ 2017-01-05T14:39:24+08:00 ] ::1 /thinkphp/index.php/admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000495s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `cd_admin` WHERE `unumber` = '10001' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Admin\Controller\LoginController.class.php 第 14 行.
+
+[ 2017-01-05T15:22:52+08:00 ] ::1 /thinkphp/index.php/admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `cd_admin` WHERE `unumber` = '10001' LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Admin\Controller\LoginController.class.php 第 14 行.
+
+[ 2017-01-05T15:44:31+08:00 ] ::1 /thinkphp/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+NOTIC: [8] Undefined index: id F:\wamp\www\thinkphp\Application\Admin\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `cd_admin` WHERE `id` = null LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-01-05T15:44:57+08:00 ] ::1 /thinkphp/index.php/admin/index?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `cd_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-01-05T16:54:17+08:00 ] ::1 /thinkphp/index.php/admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002800s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `cd_admin` WHERE `unumber` = '10001' LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Admin\Controller\LoginController.class.php 第 14 行.
+
+[ 2017-01-05T17:03:33+08:00 ] ::1 /thinkphp/index.php/admin/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006035s ]
+SQL: SHOW COLUMNS FROM `cd_admin` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `cd_admin` WHERE `unumber` = '10001' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: username F:\wamp\www\thinkphp\Application\Admin\Controller\LoginController.class.php 第 14 行.
+
